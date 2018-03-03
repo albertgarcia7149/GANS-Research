@@ -1,6 +1,6 @@
 # data
 
-**trail1.zip** contains all the images used in the sample set for trial1.
+**trail1.7z** contains all the images used in the sample set for trial1.
 
 # Sample Images
 
