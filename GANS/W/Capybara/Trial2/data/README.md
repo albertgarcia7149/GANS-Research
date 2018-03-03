@@ -1,4 +1,4 @@
-# data
+# Data
 
 **trial1.zip** contains all the images used in the sample set for trial2.
 
