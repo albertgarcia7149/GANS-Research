@@ -6,4 +6,8 @@
 
 Here are a few samples in increasing epoch order.
 
-(images)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Epoch 150")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Epoch 750")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Epoch 3300")
