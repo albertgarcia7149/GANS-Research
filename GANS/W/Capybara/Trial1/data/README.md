@@ -1,4 +1,4 @@
-# data
+# Data
 
 **trail1.7z** contains all the images used in the sample set for trial1.
 
