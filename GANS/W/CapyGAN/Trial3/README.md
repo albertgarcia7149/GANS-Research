@@ -8,5 +8,5 @@ Using the images found in the **data** folder the images in **results** were gen
 
 Here is the final result from trial 3.
 
-![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/blob/master/GANS/W/Capybara/Trial3/results/epoch3300.jpg "Epoch 3300")
+![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/blob/master/GANS/W/CapyGAN/Trial3/results/epoch3300.jpg "Epoch 3300")
 
