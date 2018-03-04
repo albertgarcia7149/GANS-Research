@@ -4,10 +4,8 @@ Using images found in the **data** folder the images in **results** were generat
 
 # Results
 
-(see analysis)
-
 Here are the final results from trial 2.
 
-![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/blob/master/GANS/W/Capybara/Trial2/results/epoch4950.jpg "Final Result")
+![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/blob/master/GANS/W/CapyGAN/Trial2/results/epoch4950.jpg "Final Result")
 
 
