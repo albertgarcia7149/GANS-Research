@@ -11,3 +11,5 @@ Here are some of the results.
 ![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/tree/master/GANS/Vanilla/Results/471.png "Epock 471")
 
 ![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/tree/master/GANS/Vanilla/Results/999.png "Epock 999")
+
+![alt text](https://github.com/albertgarcia7149/Undergraduate-ML-Research/blob/master/GANS/W/CapyGAN/Trial1/results/epoch1900.jpg "Epoch 1900")
