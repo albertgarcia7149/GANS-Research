@@ -4,7 +4,7 @@ All of my independent research that pertains to General Adversarial Networks
 
 # Vanilla
 
-(projects contained)
+**GAN.py** - my first use of GANS. Goal is to see if I can recreate know results. 
 
 # W
 
